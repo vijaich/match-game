@@ -1,0 +1,13 @@
+.thumb-nail-img {
+  height: 90px;
+  width: 90px;
+}
+
+.img-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
+
+.each-image {
+  margin: 10px;
+}
